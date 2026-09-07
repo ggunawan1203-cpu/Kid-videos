@@ -1,0 +1,6 @@
+{
+  "name": "Kids Creator AI",
+  "description": "Studio konten anak-anak cerdas: analisis video trending viral, generator video Veo 3 rasio 9:16, judul menarik, deskripsi, dan hashtag otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
